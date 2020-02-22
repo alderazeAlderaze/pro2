@@ -1,0 +1,128 @@
+body{
+    
+    padding-top: 70px;
+    
+    
+}
+.navbar{
+ 
+    min-height: 70px;
+}  
+
+
+h1,h3,h4,h5{
+    
+    font-family: 'Oswald', sans-serif;
+}
+
+.lead{
+    
+    font-family: 'Roboto Condensed', sans-serif;
+      text-transform:capitalize
+    
+}
+   
+
+
+.ppp{
+    
+    background-color: #f5f5f5
+}
+
+.ppp .breadcrumb {
+    
+    padding: 20 0;
+    margin: 0;
+    
+}
+ 
+/* start about us*/
+
+.aboutus{
+    
+        margin-top: 21px;
+    margin-bottom: 50px;
+}
+
+.aboutus h2{
+        font-weight: bolder;
+    font-size: 62px;
+}
+
+.aboutus hr{
+    
+        width: 70%;
+}
+
+.aboutus .me p{
+ 
+        margin: 0px 199px;
+}
+
+.aboutus img{
+    
+        margin-top: 29px;
+}
+
+.aboutus .li div{
+        margin-top: 53px;
+    
+}
+
+
+/* end about us*/
+
+/* start faq*/
+.panel-title > a,
+.panel-title > small,
+.panel-title > .small,
+.panel-title > small > a,
+.panel-title > .small > a{
+    
+     text-decoration: none
+}
+.panel-title >a:hover{
+    
+    border-bottom: 1px solid black;
+    text-decoration: none
+}
+
+.ggg .panel-heading a.collapsed:after{
+    
+        font-family: 'Glyphicons Halflings';
+        content: "\e080";
+    float: right
+    
+    
+}
+
+.ggg .panel-heading a:after{
+    
+    font-family: 'Glyphicons Halflings';
+        content: "\e114";
+    float: right
+    
+    
+}
+
+/*.ggg .panel-heading a.in:first-of-type:after{
+    
+        font-family: 'Glyphicons Halflings';
+        content: "\e080";
+    float: right
+    
+    
+}*/
+
+.ggg a:first-of-type:after{
+    
+    font-family: 'Glyphicons Halflings';
+        content: "\e114";
+    float: right
+    
+    
+}
+
+
+
+/* end faq*/

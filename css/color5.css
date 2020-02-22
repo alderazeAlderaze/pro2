@@ -1,0 +1,63 @@
+
+
+/* start color background */
+
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.box-option ul li,
+.box-option i
+{
+    background-color:#f02323;
+   
+}
+
+/* end color background */
+
+/* start color */
+
+.about span,.openi span,.meet .ro i:hover,.footer .capy span
+
+{
+    
+    color: #f02323;
+}
+
+/* end color */
+
+/* start border color */
+
+
+.carousel-indicators .active{
+    
+    border: 1px solid #f02323
+}
+.openi .carousel-indicators li.active,.box-option div,
+{
+   
+    border: 3px solid #f02323;
+      
+}
+
+.dropdown-menu{
+   
+    border-top: 3px solid #f02323;
+      
+}
+
+
+
+
+
+
+
+
+/* end border color */
+    
+    
+
